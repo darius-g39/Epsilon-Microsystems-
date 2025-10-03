@@ -10,6 +10,7 @@ and perseverance. This might be or not be a success, but the power of documentin
 
 CHANGES:
 REGISTERING COMPANY NAME AND STARTING TO LEARN HTML AND CSS BASICS FOR 30 MIN
+DOMAIN REGISTERED
 
 Micro progress for today
 FIRST NAVBAR CREATED BASIC
