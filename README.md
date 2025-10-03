@@ -9,5 +9,4 @@ Journal : Today I registered the name for the company in Romania and got the req
 and perseverance. This might be or not be a success, but the power of documenting it is great
 
 CHANGES:
--REGISTERING COMPANY NAME
--STARTING TO LEARN HTML AND CSS BASICS FOR 30 MIN
+REGISTERING COMPANY NAME AND STARTING TO LEARN HTML AND CSS BASICS FOR 30 MIN
